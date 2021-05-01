@@ -15,10 +15,10 @@
 
 ## Connect with me:
 <p align="left">
-<a href="https://twitter.com/fabiogil" target="blank"><img align="center" src="https://images.vexels.com/media/users/3/137419/isolated/preview/b1a3fab214230557053ed1c4bf17b46c-logotipo-del-icono-de-twitter-by-vexels.png" alt="fabiogil" height="30" width="40" /></a>
+<a href="https://twitter.com/fabiogilrivera" target="blank"><img align="center" src="https://images.vexels.com/media/users/3/137419/isolated/preview/b1a3fab214230557053ed1c4bf17b46c-logotipo-del-icono-de-twitter-by-vexels.png" alt="fabiogil" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/fabio-gil-rivera/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="fabio-gil-rivera" height="30" width="40" /></a>
-<a href="https://facebook.com/fgrweb" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/1200px-Facebook_icon.svg.png" alt="fgrweb" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/ucpbvubcglgrotjvdqewhkfa" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1280px-YouTube_full-color_icon_%282017%29.svg.png" alt="youtube" height="30" width="40" /></a>
+<a href="https://www.facebook.com/FGRWEB/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/1200px-Facebook_icon.svg.png" alt="fgrweb" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCPbVUBCgLGrOtJVDQeWHkFA" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1280px-YouTube_full-color_icon_%282017%29.svg.png" alt="youtube" height="30" width="40" /></a>
 </p>
 
 ## Skills, Languages and Tools:
