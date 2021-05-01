@@ -5,9 +5,9 @@
 
 ## Certificates
 
-- 📄 Professional DevOps
+- 🎓 Professional DevOps
 
-- 📄 Scrum master
+- 🎓 Scrum master
 
 - 🌱 I’m currently learning **Kubernetes**
 
