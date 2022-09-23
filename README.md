@@ -9,7 +9,7 @@
 
 - 🎓 Scrum master
 
-- 🌱 I’m currently learning **Kubernetes**
+- 🌱 continuous learning **Kubernetes**
 
 - 📫 How to reach me **fgrweb.9@gmail.com**
 
